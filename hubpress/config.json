@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "conanxin",
-    "repositoryName": "hubpress.io",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"conanxin","repositoryName":"hubpress.io","branch":"gh-pages"},"site":{"title":"Time Will Tell ！","logo":"http://www.gravatar.com/avatar/90eb167d263e44989c619e3f6d2a83ee.png","cover":"http://pic.yupoo.com/kidxin/CZmoyDOU/medish.jpg","googleAnalytics":"<script>   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');    ga('create', 'UA-59629271-1', 'auto');   ga('send', 'pageview');  </script>","url":"http://conanxin.github.io/hubpress.io"},"socialnetwork":{"email":"conanxin@gmail.com","twitter":"https://twitter.com/conanxin","googleplus":"https://plus.google.com/u/0/+%E6%B5%B7%E6%9E%97%E8%BE%9Bconanxin/posts/p/pub","linkedin":"cn.linkedin.com/in/conanxin/en","facebook":"https://www.facebook.com/conan.xin","flickr":"https://www.flickr.com/photos/conanxin/","instagram":"http://instagram.com/conanxin/","pinterest":"https://www.pinterest.com/conanxin/","github":"https://github.com/conanxin"},"theme":{"name":"Casper","url":"http://conanxin.github.io/hubpress.io/themes/Casper"}}
